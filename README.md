@@ -1,0 +1,2 @@
+# KAIST_GLOBAL
+Website for KAIST GLOBAL INC
